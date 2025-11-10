@@ -1,0 +1,3302 @@
+[
+  {
+    "id": 1,
+    "nome": "Alice Ferreira",
+    "foto": "./images/foto1.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Python",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 1",
+        "link": "https://github.com/user1/projeto1",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Bruno Lima",
+    "foto": "./images/foto2.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Power BI",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 2",
+        "link": "https://github.com/user2/projeto2",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Carla Souza",
+    "foto": "./images/foto3.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "USP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 3",
+        "link": "https://github.com/user3/projeto3",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Diego Andrade",
+    "foto": "./images/foto4.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 4",
+        "link": "https://github.com/user4/projeto4",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Eduarda Martins",
+    "foto": "./images/foto5.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Docker",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 5",
+        "link": "https://github.com/user5/projeto5",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Felipe Costa",
+    "foto": "./images/foto6.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Figma",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 6",
+        "link": "https://github.com/user6/projeto6",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Automação"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Gabriela Oliveira",
+    "foto": "./images/foto7.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "São Paulo/SP",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Python",
+      "TensorFlow",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "UFMG",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 7",
+        "link": "https://github.com/user7/projeto7",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Hugo Pereira",
+    "foto": "./images/foto8.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "AWS",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 8",
+        "link": "https://github.com/user8/projeto8",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Isabela Rocha",
+    "foto": "./images/foto9.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Power BI",
+      "Python"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UTFPR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 9",
+        "link": "https://github.com/user9/projeto9",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Automação"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "João Mendes",
+    "foto": "./images/foto10.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Node.js",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UTFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 10",
+        "link": "https://github.com/user10/projeto10",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Automação"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Karina Dias",
+    "foto": "./images/foto11.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TensorFlow",
+      "Figma"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 11",
+        "link": "https://github.com/user11/projeto11",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Lucas Nascimento",
+    "foto": "./images/foto12.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TensorFlow",
+      "Docker"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 12",
+        "link": "https://github.com/user12/projeto12",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Mariana Torres",
+    "foto": "./images/foto13.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "React",
+      "Python"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "PUC-Rio",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 13",
+        "link": "https://github.com/user13/projeto13",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Nicolas Alves",
+    "foto": "./images/foto14.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 14",
+        "link": "https://github.com/user14/projeto14",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Olívia Castro",
+    "foto": "./images/foto15.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Node.js",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 15",
+        "link": "https://github.com/user15/projeto15",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Educação"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Paulo Ramos",
+    "foto": "./images/foto16.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Figma",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 16",
+        "link": "https://github.com/user16/projeto16",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Queila Moraes",
+    "foto": "./images/foto17.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 17",
+        "link": "https://github.com/user17/projeto17",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Automação"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "Rafael Gomes",
+    "foto": "./images/foto18.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "TensorFlow",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 18",
+        "link": "https://github.com/user18/projeto18",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Educação"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Sofia Carvalho",
+    "foto": "./images/foto19.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "AWS",
+      "JavaScript",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UTFPR",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 19",
+        "link": "https://github.com/user19/projeto19",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Tiago Barros",
+    "foto": "./images/foto20.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "TensorFlow",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UTFPR",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 20",
+        "link": "https://github.com/user20/projeto20",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Ursula Lima",
+    "foto": "./images/foto21.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 21",
+        "link": "https://github.com/user21/projeto21",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Victor Teixeira",
+    "foto": "./images/foto22.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UTFPR",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 22",
+        "link": "https://github.com/user22/projeto22",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "William Duarte",
+    "foto": "./images/foto23.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Power BI",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 23",
+        "link": "https://github.com/user23/projeto23",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Xavier Silva",
+    "foto": "./images/foto24.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 24",
+        "link": "https://github.com/user24/projeto24",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Yara Monteiro",
+    "foto": "./images/foto25.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "Node.js",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "PUC-Rio",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 25",
+        "link": "https://github.com/user25/projeto25",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Automação"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Zeca Andrade",
+    "foto": "./images/foto26.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Figma",
+      "Docker"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 26",
+        "link": "https://github.com/user26/projeto26",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Ana Paula",
+    "foto": "./images/foto27.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "São Paulo/SP",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "Python",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 27",
+        "link": "https://github.com/user27/projeto27",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Automação"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Bernardo Reis",
+    "foto": "./images/foto28.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 28",
+        "link": "https://github.com/user28/projeto28",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Camila Prado",
+    "foto": "./images/foto29.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "AWS",
+      "React"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 29",
+        "link": "https://github.com/user29/projeto29",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Daniel Freitas",
+    "foto": "./images/foto30.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Power BI",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "USP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 30",
+        "link": "https://github.com/user30/projeto30",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Automação"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Elaine Costa",
+    "foto": "./images/foto31.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Node.js",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "FIAP",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 31",
+        "link": "https://github.com/user31/projeto31",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Fábio Souza",
+    "foto": "./images/foto32.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Curitiba/PR",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 32",
+        "link": "https://github.com/user32/projeto32",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Giovana Lopes",
+    "foto": "./images/foto33.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Curitiba/PR",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 33",
+        "link": "https://github.com/user33/projeto33",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Automação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Heitor Nunes",
+    "foto": "./images/foto34.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 34",
+        "link": "https://github.com/user34/projeto34",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Automação"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Ingrid Fernandes",
+    "foto": "./images/foto35.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "USP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 35",
+        "link": "https://github.com/user35/projeto35",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "Educação"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Jorge Ramos",
+    "foto": "./images/foto36.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "São Paulo/SP",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "React",
+      "Docker",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UTFPR",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 36",
+        "link": "https://github.com/user36/projeto36",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Karla Almeida",
+    "foto": "./images/foto37.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "SQL",
+      "Docker"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 37",
+        "link": "https://github.com/user37/projeto37",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "Leonardo Martins",
+    "foto": "./images/foto38.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "Python",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 38",
+        "link": "https://github.com/user38/projeto38",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Melissa Pinto",
+    "foto": "./images/foto39.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "São Paulo/SP",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 39",
+        "link": "https://github.com/user39/projeto39",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Natália Correia",
+    "foto": "./images/foto40.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "AWS"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UTFPR",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 40",
+        "link": "https://github.com/user40/projeto40",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Scrum Master"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Otávio Rocha",
+    "foto": "./images/foto41.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 41",
+        "link": "https://github.com/user41/projeto41",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Patrícia Dias",
+    "foto": "./images/foto42.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "USP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 42",
+        "link": "https://github.com/user42/projeto42",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Automação"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Renato Barbosa",
+    "foto": "./images/foto43.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "SQL",
+      "TensorFlow",
+      "Python"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 43",
+        "link": "https://github.com/user43/projeto43",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Automação"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Sabrina Moreira",
+    "foto": "./images/foto44.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Figma",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UTFPR",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 44",
+        "link": "https://github.com/user44/projeto44",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Tadeu Ferreira",
+    "foto": "./images/foto45.jpg",
+    "cargo": "UX Designer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 45",
+        "link": "https://github.com/user45/projeto45",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "AWS Certified Cloud Practitioner",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Educação"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Ulysses Cardoso",
+    "foto": "./images/foto46.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Node.js",
+      "SQL"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 46",
+        "link": "https://github.com/user46/projeto46",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Vera Lima",
+    "foto": "./images/foto47.jpg",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "AWS",
+      "Docker"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "PUC-Rio",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 47",
+        "link": "https://github.com/user47/projeto47",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Wagner Castro",
+    "foto": "./images/foto48.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "Python",
+      "SQL",
+      "Figma"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "PUC-Rio",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 48",
+        "link": "https://github.com/user48/projeto48",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Automação"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Yuri Rodrigues",
+    "foto": "./images/foto49.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "Python",
+      "Docker",
+      "AWS"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "DevOps Engineer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UTFPR",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 49",
+        "link": "https://github.com/user49/projeto49",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Educação",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Zilda Farias",
+    "foto": "./images/foto50.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "Node.js",
+      "TensorFlow"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UFMG",
+        "ano": 2019
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 50",
+        "link": "https://github.com/user50/projeto50",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Adriana Lopes",
+    "foto": "./images/foto51.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Node.js",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "PUC-Rio",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 51",
+        "link": "https://github.com/user51/projeto51",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Breno Rocha",
+    "foto": "./images/foto52.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Docker",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Criatividade"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 52",
+        "link": "https://github.com/user52/projeto52",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Caio Duarte",
+    "foto": "./images/foto53.jpg",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "TensorFlow",
+      "Figma"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "PUC-Rio",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 53",
+        "link": "https://github.com/user53/projeto53",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "UX Research"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Débora Pires",
+    "foto": "./images/foto54.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Ciência de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Análise de Dados",
+    "habilidadesTecnicas": [
+      "Docker",
+      "Python",
+      "AWS"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 54",
+        "link": "https://github.com/user54/projeto54",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Sustentabilidade",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Elisa Ramos",
+    "foto": "./images/foto55.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Desenvolvimento.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Infraestrutura e Cloud",
+    "habilidadesTecnicas": [
+      "React",
+      "Power BI",
+      "Figma"
+    ],
+    "softSkills": [
+      "Trabalho em equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "Analista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Análise de Sistemas",
+        "instituicao": "UTFPR",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 55",
+        "link": "https://github.com/user55/projeto55",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "Educação"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Fernando Siqueira",
+    "foto": "./images/foto56.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Figma",
+      "Node.js"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "InovaData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UFMG",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 56",
+        "link": "https://github.com/user56/projeto56",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Google Data Analytics",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "IA Ética",
+      "Sustentabilidade"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Gabriel Santos",
+    "foto": "./images/foto57.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "São Paulo/SP",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "Power BI",
+      "AWS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "CloudBridge",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Engenharia de Software",
+        "instituicao": "UFMG",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 57",
+        "link": "https://github.com/user57/projeto57",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Google Data Analytics"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Helena Barros",
+    "foto": "./images/foto58.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Análise de Dados.",
+    "localizacao": "Curitiba/PR",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "TensorFlow",
+      "AWS",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Resiliência",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "DesignPlus",
+        "cargo": "Engenheiro de Software",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Data Science",
+        "instituicao": "UFMG",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 58",
+        "link": "https://github.com/user58/projeto58",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Educação"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Igor Figueiredo",
+    "foto": "./images/foto59.jpg",
+    "cargo": "Cientista de Dados",
+    "resumo": "Profissional experiente na área de Design.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Ciência de Dados",
+    "habilidadesTecnicas": [
+      "AWS",
+      "SQL",
+      "Power BI"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "TechCorp",
+        "cargo": "Cientista de Dados",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Design Digital",
+        "instituicao": "FIAP",
+        "ano": 2018
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 59",
+        "link": "https://github.com/user59/projeto59",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Scrum Master",
+      "Azure Fundamentals"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Francês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Automação",
+      "IA Ética"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Juliana Tavares",
+    "foto": "./images/foto60.jpg",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional experiente na área de Infraestrutura e Cloud.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Desenvolvimento",
+    "habilidadesTecnicas": [
+      "SQL",
+      "JavaScript",
+      "Figma"
+    ],
+    "softSkills": [
+      "Criatividade",
+      "Resiliência"
+    ],
+    "experiencias": [
+      {
+        "empresa": "SmartData",
+        "cargo": "UX Designer",
+        "inicio": "2021-01",
+        "fim": "2024-10",
+        "descricao": "Atuação em projetos estratégicos e colaborativos."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Ciência da Computação",
+        "instituicao": "UFMG",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto 60",
+        "link": "https://github.com/user60/projeto60",
+        "descricao": "Aplicação desenvolvida para resolver problemas reais."
+      }
+    ],
+    "certificacoes": [
+      "Azure Fundamentals",
+      "AWS Certified Cloud Practitioner"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Espanhol",
+        "nivel": "Básico"
+      }
+    ],
+    "areaInteresses": [
+      "UX Research",
+      "Educação"
+    ]
+  }
+]
