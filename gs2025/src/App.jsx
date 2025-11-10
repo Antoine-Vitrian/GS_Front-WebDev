@@ -1,34 +1,32 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import React, { useEffect, useState } from 'react'
+import Home from './pages/Home'
+import DarkModeToggle from './components/DarkModeToggle'
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [profiles, setProfiles] = useState([])
+  useEffect(() => {
+    // carregar JSON local colocado em public/data/profiles.json
+    fetch('/data/usuarios.json')
+      .then(r => r.json())
+      .then(setProfiles)
+      .catch(err => {
+        console.error('Erro ao carregar profiles.json. Certifique-se de colocá-lo em public/data/', err)
+      })
+  }, [])
 
   return (
-    <>
-      <div>
-        <a href="https://vite.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
-      </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+    <div className="min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors">
+      <header className="p-4 flex justify-between items-center max-w-6xl mx-auto">
+        <h1 className="text-2xl font-bold text-gray-800 dark:text-gray-100">Futuro do Trabalho — Global Solution</h1>
+        <div className="flex items-center gap-4">
+          <DarkModeToggle />
+        </div>
+      </header>
+
+      <main className="max-w-6xl mx-auto p-4">
+        <Home profiles={profiles}/>
+      </main>
+    </div>
   )
 }
 
