@@ -2,15 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
-html {
-  scroll-behavior: smooth;
-}
 
 /* ======== TEMA CLARO/ESCURO ======== */
 body {
   font-family: ui-sans-serif, system-ui, sans-serif;
   background-color: #f9fafb; /* equivalente a gray-50 */
-  color: #1f2937; /* gray-800 */
+   /* gray-800 */
   transition-property: background-color, color;
   transition-duration: 300ms;
 }
@@ -57,7 +54,7 @@ body {
   background-color: white;
   border-radius: 1rem; /* rounded-2xl */
   padding: 1.5rem; /* p-6 */
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 1);
   transition: all 0.3s ease;
 }
 
