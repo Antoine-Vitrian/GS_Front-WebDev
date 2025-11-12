@@ -19,3 +19,6 @@ Aplicação SPA em React + Tailwind que simula uma rede profissional voltada ao 
 ##### Guilherme de Melo Sorrilha RM: 563825
 ##### Guilherme Rodrigues de Andrade RM: 565863
 ##### Gusthavo Costa de Melo RM: 561330
+
+3. Link Vercel
+   #### https://gs2025-q30b7cyv0-vatser04s-projects.vercel.app/
