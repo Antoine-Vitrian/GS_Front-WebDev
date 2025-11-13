@@ -16,9 +16,7 @@ Aplicação SPA em React + Tailwind que simula uma rede profissional voltada ao 
 2. Integrantes:
 ##### Victor Antonio Teixeira da Silva RM: 562573
 ##### Lucas Oliveira de Mendonça Almeida RM: 562613
-##### Guilherme de Melo Sorrilha RM: 563825
-##### Guilherme Rodrigues de Andrade RM: 565863
-##### Gusthavo Costa de Melo RM: 561330
+##### Cristian Belasco Arancibia RM: 565710
 
 3. Link Vercel
    #### https://gs2025-q30b7cyv0-vatser04s-projects.vercel.app/
